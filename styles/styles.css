@@ -1,0 +1,49 @@
+header{
+    text-align:right;
+    background-color: gray;
+}
+span{
+    margin-right: 400px;
+    color: white;
+}
+.cab{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+}
+.login{
+    
+    background-color:rgb(79, 77, 77);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#ta{
+    padding: 0px 250px 0px 300px;
+    text-align: left;
+}
+#ps{
+    padding: 0px 250px 0px 300px;}
+h2{
+    text-align: center;
+    color: rgb(223, 34, 34);
+}
+.final{
+    text-align: center;
+    margin-top: 35px;
+}
+#registro{
+color: rgb(218, 24, 24);
+text-decoration: none;
+margin-right: 140px;
+
+}
+#recuperar{
+    color: rgb(232, 19, 19);
+    text-decoration: none;
+    
+    }
